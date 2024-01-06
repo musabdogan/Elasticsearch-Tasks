@@ -12,11 +12,11 @@
 
 - Display Nginx logs in Kibana with ready-made Dashboards.
 
+![nginxelasticagent](https://github.com/SeyyidhanTaskin/Collecting-Logs-with-Elastic-Agent/assets/109666785/9c9403d4-88ee-45c2-b6d4-d04f65e68b95)
+
 ## Delivery:
 
 - Create a role and assign a user to this role.
-
-- Grant access to Dashboard and Discover in terms of accessibility.
 
 #### Note : We do not want the assigned user to have access to everything, we only want them to be able to read logs in Kibana.
 
