@@ -18,7 +18,7 @@
 
 - Grant access to Dashboard and Discover in terms of accessibility.
 
-#### Note : We do not want the assigned user to have access to everything; we only want them to be able to read logs in Kibana.
+#### Note : We do not want the assigned user to have access to everything, we only want them to be able to read logs in Kibana.
 
 ## Questions:
 
