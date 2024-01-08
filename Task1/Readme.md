@@ -10,20 +10,16 @@
 
 #### Link: https://docs.elastic.co/integrations/nginx
 
-- Display Nginx logs in Kibana with ready-made Dashboards.
+- Display Nginx logs in Kibana with out-of-box Dashboards.
 
 ![nginxelasticagent](https://github.com/SeyyidhanTaskin/Collecting-Logs-with-Elastic-Agent/assets/109666785/9c9403d4-88ee-45c2-b6d4-d04f65e68b95)
 
 ## Delivery:
 
-- Create a role and assign a user to this role.
-
-#### Note : We do not want the assigned user to have access to everything, we only want them to be able to read logs in Kibana.
-
-## Questions:
-
-- Were you able to create a role and assign a user?
-
+- Create a role and assign a user to this role. Create two users with different autherization. One user can only read access.logs another user can only read error.logs
+  
 - Were you able to obtain the requested visuals?
+  
+- Create out-of-box dashboards and observe the data.
 
-- When comparing the documentation counts for Nginx Access and Error Logs, did you obtain equal results?
+- Compare document count in both Elasticsearch index/datastream and the log files. Make sure both access.log and access-log index has same number of documents.
