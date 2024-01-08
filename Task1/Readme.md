@@ -15,11 +15,10 @@
 ![nginxelasticagent](https://github.com/SeyyidhanTaskin/Collecting-Logs-with-Elastic-Agent/assets/109666785/9c9403d4-88ee-45c2-b6d4-d04f65e68b95)
 
 ## Delivery:
+- Working Elasticsearch, Kibana, Integration Server, Elastic Agent on Linux that can consume the access.log and error.log continuously.
 
-- Create a role and assign a user to this role. Create two users with different autherization. One user can only read access.logs another user can only read error.logs
-  
-- Were you able to obtain the requested visuals?
-  
-- Create out-of-box dashboards and observe the data.
+- Provide a Kibana Dashboard like the above.
 
-- Compare document count in both Elasticsearch index/datastream and the log files. Make sure both access.log and access-log index has same number of documents.
+- Verify that the document count in both the Elasticsearch index/datastream and the corresponding log files is consistent. In other words, ensure that both the access.log and access-log index have the same number of documents.
+
+- Two users with different permissions: one can only read access logs, and the other can only read error logs.
