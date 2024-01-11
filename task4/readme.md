@@ -10,3 +10,4 @@ https://www.elastic.co/guide/en/elasticsearch/reference/current/ingest.html
 8. Use grok/dissect and parse some part of a value
 9. Generate geoIP information from IP
 10. PDF ingestion into Elasticsearch with attachment processor.
+11. Update by query usage with ingest pipeline
