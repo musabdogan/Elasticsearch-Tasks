@@ -1,6 +1,6 @@
 data transformation with ingest pipeline
 https://www.elastic.co/guide/en/elasticsearch/reference/current/ingest.html
-1. adding timestamp in each document
+1. adding current timestamp in each document
 2. removing fields according to certain field values
 3. mathematical calculation between two fields
 4. creating a new field with constant value
