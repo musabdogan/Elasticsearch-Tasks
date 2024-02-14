@@ -10,8 +10,6 @@
 
 #### Link: https://www.elastic.co/blog/how-to-enrich-logs-and-metrics-using-an-elasticsearch-ingest-node
 
-- Display Nginx logs in Kibana with out-of-box Dashboards.
-
 ![enrich_process](https://github.com/musabdogan/Elasticsearch-Tasks/blob/main/task2/enrich-process.svg)
 
 ## Delivery:
