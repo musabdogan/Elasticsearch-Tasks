@@ -2,7 +2,7 @@
 
 ## Area to Work:
 
-- Enrich the data in [enrich_me.txt](https://github.com/musabdogan/Elasticsearch-Tasks/blob/main/Task1/access.log) with [lookup_table.csv](https://github.com/musabdogan/Elasticsearch-Tasks/blob/main/task2/lookup_table.csv) and index the enriched data into target_index.
+- Enrich the data in [enrich_me.txt](https://github.com/musabdogan/Elasticsearch-Tasks/blob/main/task2/enrich_me.txt) with [lookup_table.csv](https://github.com/musabdogan/Elasticsearch-Tasks/blob/main/task2/lookup_table.csv) and index the enriched data into target_index.
 
 ## Task:
 
