@@ -1,0 +1,13 @@
+POST /target_index/_bulk
+{"index":{"_id":"1"}}
+{"device_id":"device1","other_field":"some value"}
+{"index":{"_id":"2"}}
+{"device_id":"device2","other_field":"some value"}
+{"index":{"_id":"3"}}
+{"device_id":"device3","other_field":"some value"}
+{"index":{"_id":"4"}}
+{"device_id":"device4","other_field":"some value"}
+{"index":{"_id":"5"}}
+{"device_id":"device5","other_field":"some value"}
+{"index":{"_id":"6"}}
+{"device_id":"device6","other_field":"some value"}
