@@ -1,4 +1,5 @@
 https://www.elastic.co/blog/implement-image-similarity-search-elastic
+
 Dataset: https://www.kaggle.com/datasets/alessiocorrado99/animals10?resource=download
 
 ![image (136)](https://github.com/musabdogan/Elasticsearch-Tasks/assets/61780564/00f938b8-4a6f-42c7-8a6a-9260c597fd9b)
