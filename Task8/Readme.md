@@ -25,9 +25,31 @@
 
 ##### Grafana Setup Link: https://grafana.com/docs/grafana/latest/setup-grafana/installation/debian/
 
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-- https://mlbtihvv1ztx.i.optimole.com/cb:MU-o.1a801/w:1024/h:260/q:90/ig:avif/f:best/https://opster.com/wp-content/uploads/2023/03/ES-Exporter-Quickstart-Dashboard-1.png
+#### Elasticsearch Exporter Metrics on Grafana
+
+![Elasticsearch Metrics with Prometheus](https://github.com/musabdogan/Elasticsearch-Tasks/assets/109666785/11d7fdc5-f9be-47f7-a336-c51df13d9937)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### Task Algorithm
+
+![es-exporter-excali](https://github.com/musabdogan/Elasticsearch-Tasks/assets/109666785/13dca0c4-4dcf-4b02-b3ec-6288abbb4e8e)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Delivery
+
+- Provide a Grafana Dashboard like the above.
+
+- Verify that Elasticsearch Exporter metrics are complete.
+
+
+
+
+
 
 
 
