@@ -3,7 +3,7 @@
 
 ## Area To Work
 
-- The recommended working environment for this Task is Linux.
+- The recommended running environment for this task is Linux with Elasticsearch installed.
 
 - The tools to be installed are below.
 
