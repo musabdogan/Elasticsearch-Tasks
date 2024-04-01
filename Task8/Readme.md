@@ -27,7 +27,7 @@
 
 
 
-C:\Users\seyit\OneDrive\Masaüstü\works\ELK-Stack\projeler\Elasticsearch-Exporter\Elasticsearch Metrics with Prometheus.png
+- https://mlbtihvv1ztx.i.optimole.com/cb:MU-o.1a801/w:1024/h:260/q:90/ig:avif/f:best/https://opster.com/wp-content/uploads/2023/03/ES-Exporter-Quickstart-Dashboard-1.png
 
 
 
