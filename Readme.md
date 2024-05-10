@@ -10,5 +10,5 @@ Welcome to Elasticsearch-Tasks! If you're looking to dive into Elasticsearch, yo
 * task6 - Performance bencmark with esrally
 * task7 - vector search & semantic search with AI
 * task8 - elasticsearch monitoring with prometheus elasticsearch exporter
-* task9 - coronavirus worldmap
+* task9 - coronavirus worldmap KPI
 * task10 - image similarity search with AI
