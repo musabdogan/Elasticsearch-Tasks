@@ -13,7 +13,7 @@
 
 - Display Nginx logs in Kibana with out-of-box Dashboards.
 
-![nginxelasticagent](https://github.com/musabdogan/Elasticsearch-Tasks/blob/main/Task1/nginx-logs-dashboard.png)
+![nginxelasticagent](https://github.com/musabdogan/Elasticsearch-Tasks/blob/main/task1/nginx-logs-dashboard.png)
 
 ## Delivery:
 - Working Elasticsearch, Kibana, Integration Server, Elastic Agent on Linux that can consume the access.log and error.log continuously.
