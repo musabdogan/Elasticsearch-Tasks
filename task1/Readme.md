@@ -3,7 +3,7 @@
 ## Area to Work:
 
 - Install Elasticsearch, Kibana, and Elastic Agent on Linux.
-- Visualize the NGINX [access.logs](https://github.com/musabdogan/Elasticsearch-Tasks/blob/main/Task1/access.log) and [error.logs](https://github.com/musabdogan/Elasticsearch-Tasks/blob/main/task1/error.log)
+- Visualize the NGINX [access.logs](https://github.com/musabdogan/Elasticsearch-Tasks/blob/main/task1/access.log) and [error.logs](https://github.com/musabdogan/Elasticsearch-Tasks/blob/main/task1/error.log)
 
 ## Task:
 
