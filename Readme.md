@@ -7,7 +7,7 @@ Welcome to Elasticsearch-Tasks! If you're looking to dive into Elasticsearch, yo
 * task3 - e-commerce search 
 * task4 - advanced data processing
 * task5 - coping with growing datasets
-* task6 - Performance bencmark with esrally
+* task6 - performance bencmark with esrally
 * task7 - vector search & semantic search with AI
 * task8 - elasticsearch monitoring with prometheus elasticsearch exporter
 * task9 - coronavirus worldmap dashboard
