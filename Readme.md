@@ -15,3 +15,4 @@ Welcome to Elasticsearch-Tasks! If you're looking to dive into Elasticsearch, yo
 * task11 - high availability
 * task12 - disaster recovery
 * task13 - postgresql sync
+* task14 - cross-cluster search
