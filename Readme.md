@@ -14,4 +14,4 @@ Welcome to Elasticsearch-Tasks! If you're looking to dive into Elasticsearch, yo
 * task10 - image similarity search with AI
 * task11 - high availability
 * task12 - disaster recovery
-* 
+* task13 - postgresql sync
