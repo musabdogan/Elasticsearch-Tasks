@@ -11,7 +11,7 @@ Purpose of project is create synchronization between Elasticsearch and PostgreSQ
 * PostgreSQL (Our data is here)
 * Elasticsearch (You should know :)
   
-*Noteagain: I used Ubuntu during the task*
+*Noteagain: I used Ubuntu during the task.*
 
 ## Task 
 * Create a database and put a data in it. Pull the data from database. Check whether data pulled.
