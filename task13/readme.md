@@ -8,8 +8,8 @@ Purpose of project is create synchronization between Elasticsearch and PostgreSQ
 ## Which tool will use:
 * Docker (You will create database via Docker)
 * Logstash (Create a pipeline using Logstash)
-* PostgreSQL (Our data is here)
-* Elasticsearch (You should know :)
+* PostgreSQL (Our data will be here)
+* Elasticsearch 
 * a pc with keyboard
   
 *Noteagain: I used Ubuntu during the task.*
