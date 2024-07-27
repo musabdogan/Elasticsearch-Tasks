@@ -28,16 +28,19 @@ In order to help you during the project, I have added the steps.
 
 [This link](https://dev.to/andre347/how-to-easily-create-a-postgres-database-in-docker-4moj) helps you during the step. 
 
-#### 3. Create ETL pipeline.
+#### 3. Install JDBC driver for PostgreSQl
+You need to install jdbc driver from [here. ](https://jdbc.postgresql.org/download/) 
+ After installation, copy the downloaded .jar file to the logstash configuration directory. For example, you might copy it to /usr/share/logstash/logstash-core/lib/jars on the machine where Logstash is running.
 
-We will create a pipeline. We handled a example of it at #task9.  [This video](https://www.youtube.com/watch?v=FPLHS9Pmgk0) describes the Logstash's pipeline architecture. The .conf that you will create must contains three part. 
 
-* Input (where the data comes from)     
-* Filters (you are going to sculpt the data that comes from .csv file in order to be indexable to Elasticsearch.)
-* Output (where the data goes to)
+#### 4. Create ETL pipeline.
+We handled a example of it at #task9.  [This video](https://www.youtube.com/watch?v=FPLHS9Pmgk0) describes the Logstash's pipeline architecture.
 
-#### 4. Run it.
+Create a .conf file and add JDBC input plugin. Check the [documentation.](https://www.elastic.co/guide/en/logstash/current/plugins-inputs-jdbc.html)
+~~a copy of .conf file was attached~~
 
-#### 5. Check the Elasticsearch side.
+#### 5. Run it.
+
+#### 6. Check the Elasticsearch side.
 
 Check whether data succesfully indexed by writing some query. 
