@@ -32,9 +32,9 @@ In order to help you during the project, I have added the steps.
 
 We will create a pipeline. We handled a example of it at #task9.  [This video](https://www.youtube.com/watch?v=FPLHS9Pmgk0) describes the Logstash's pipeline architecture. The .conf that you will create must contains three part. 
 
-    - Input (where the data comes from) 
-    - Filters (you are going to sculpt the data that comes from .csv file in order to be indexable to Elasticsearch.)
-    - Output (where the data goes to)
+* Input (where the data comes from)     
+* Filters (you are going to sculpt the data that comes from .csv file in order to be indexable to Elasticsearch.)
+* Output (where the data goes to)
 
 #### 4. Run it.
 
