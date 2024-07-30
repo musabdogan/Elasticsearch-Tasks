@@ -17,6 +17,9 @@ Purpose of project is create synchronization between Elasticsearch and PostgreSQ
 ## Task 
 * Create a database and put a data in it. Pull the data from database. Check whether data pulled.
 
+  ![Flowcharts (1)](https://github.com/user-attachments/assets/e872b639-9e09-4939-a8a3-93b12f8424b3)
+
+
 ## Steps:
 In order to help you during the project, I have added the steps.
 
