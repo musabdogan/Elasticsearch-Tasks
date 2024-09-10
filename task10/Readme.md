@@ -21,21 +21,23 @@ The goal of this task is to implement a semantic image search system using Elast
 ## Project steps:
 
 #### 1. Set up the necessary environment
-Install Python, github and dataset 
+* Install Python, github and dataset. 
 
 #### 2. Download the source Github repo
+```git clone https://github.com/radoondas/flask-elastic-image-search.git ```
 
 #### 3. Create Elastic Cloud Account
-Machine Learning features requires subscribtion. Use 14-day free trial.
+* Machine Learning features requires subscribtion. Use 14-day free trial.
 
 #### 4. Generate image embeddigns
+* Upload NLP model we need to generate image embeddings from our dataset. 
 
 #### 5. Building the Frontend with Flask Test the results
 
-Run Flask application and check by send some request 
+* Run Flask application and check by send some request 
 
 ## Delivery:
-Provide a Flask application which working like below;
+- Provide a Flask application which working like below;
 ![Screencastfrom2024-09-0814-11-12-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/a35f82a1-6919-49b0-bdba-5893a59f44dc)
 
 
