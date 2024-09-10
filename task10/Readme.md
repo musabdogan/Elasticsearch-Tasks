@@ -6,7 +6,7 @@
 
 
 
-## Purpose of project: 
+## About Task: 
 The goal of this task is to implement a semantic image search system using Elasticsearch and kNN algorithms. This task will guide you through setting up an image similarity search, where users can search for images based on text descriptions or find visually similar images by uploading an image.
 
 ![image](https://github.com/user-attachments/assets/9cfe7ae2-43c7-46eb-a980-af3e3f3c4410)
