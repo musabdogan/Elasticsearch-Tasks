@@ -15,7 +15,7 @@
 
 
 
-## About Task
+## Task
 
 - The architectures and connections of the vehicles to be installed will be presented to you. The main task here is to visualize Elasticsearch Exporter metrics in Grafana via Prometheus.
 
