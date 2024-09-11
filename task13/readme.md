@@ -1,6 +1,6 @@
-# PostgreSQL-Elasticsearch Sync
+# Task 13 | PostgreSQL-Elasticsearch Sync
 
-## Purpose of Task:
+## About Task:
 Purpose of project is create synchronization between Elasticsearch and PostgreSQL. Data in PostgreSQl will sent Elasticsearch.
 
 *_Note: Please know that It is not real time sync. Any chnage in postgresql, Logstash must run again._*
