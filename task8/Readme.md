@@ -1,4 +1,4 @@
-# Elasticsearch Exporter Monitoring
+# Task 8 | Elasticsearch Exporter Monitoring
 
 
 ## Area To Work
@@ -15,15 +15,15 @@
 
 
 
-## Task
+## About Task
 
 - The architectures and connections of the vehicles to be installed will be presented to you. The main task here is to visualize Elasticsearch Exporter metrics in Grafana via Prometheus.
 
-##### Elasticsearch Exporter Install Link: https://github.com/prometheus-community/elasticsearch_exporter/releases/tag/v1.7.0
+##### [Elasticsearch Exporter Install ](https://github.com/prometheus-community/elasticsearch_exporter/releases/tag/v1.7.0)
 
-##### Prometheus Setup Link: https://www.cherryservers.com/blog/install-prometheus-ubuntu
+##### [Prometheus Setup ](https://www.cherryservers.com/blog/install-prometheus-ubuntu)
 
-##### Grafana Setup Link: https://grafana.com/docs/grafana/latest/setup-grafana/installation/debian/
+##### [Grafana Setup](https://grafana.com/docs/grafana/latest/setup-grafana/installation/debian/)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
