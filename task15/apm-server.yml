@@ -1,0 +1,8 @@
+apm-server:
+  host: "localhost:8200"
+#-------------------------- Elasticsearch output --------------------------
+output.elasticsearch:
+  hosts: ["https://localhost:9200"]
+  username: elastic
+  password: musab123
+  ssl.verification_mode: none
