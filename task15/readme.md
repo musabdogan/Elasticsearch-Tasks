@@ -7,3 +7,9 @@ APM
 * apm-server http://localhost:8200/
 * elasticsearch https://localhost:9200/
 * kibana http://localhost:5601/
+
+Steps:
+1. install self-managed APM server https://www.elastic.co/guide/en/observability/current/apm-installing.html
+2. Configure the apm-server.yml and run the APM server. This server will listen the agents on port 8200 and send the APM data to elasticsearch. `./apm-server -e`
+3. Add the requeired information to track the application and run the application.js.
+4. run the application `node application.js`
