@@ -9,11 +9,23 @@ This project aims to build a lightweight search engine prototype for media conte
 
 In this step, you will initialize the development environment and connect Elasticsearch to your project.
 
-* Create a new Next.js project (`npx create-next-app`).
-* Run Elasticsearch locally using Docker or use Elastic Cloud.
-* Install the Elasticsearch JavaScript client:
+#### 1.1 Create a new Next.js project
+``` 
+npx create-next-app@latest ecommerce-search
+ ```
+After that go to the created dir;
+ 
+ ```
+cd ecommerce-search
+npm run dev
+ ```
+Test the connection from http://localhost:3000
+
+
+1.2 Run Elasticsearch locally using Docker
+1.3 Install the Elasticsearch JavaScript client:
   `npm install @elastic/elasticsearch`
-* Set up a `.env.local` file with your Elasticsearch connection info.
+1.4 Set up a `.env.local` file with your Elasticsearch connection info.
 
 ---
 
