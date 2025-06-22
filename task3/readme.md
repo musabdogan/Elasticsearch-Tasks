@@ -1,7 +1,7 @@
 # E-commerce search and fine-tuning for Search relevancy
 
 ## About Task
-This project aims to build a lightweight search engine prototype for media content (movies, series, games), using Elasticsearch. The goal is to demonstrate features such as filtering, autocomplete, suggesters, and query relevancy tuning with minimal setup.Search bar will contain Elastic features like filters, suggesters (did you mean), auto-complete and more. After the task, you will have learned how to create search engine and make fine tuning on it.
+This project aims to build a lightweight search engine prototype for e-commerce content, using Elasticsearch. The goal is to demonstrate features such as filtering, autocomplete, suggesters, and query relevancy tuning with minimal setup.Search bar will contain Elastic features like filters, suggesters (did you mean), auto-complete and more. After the task, you will have learned how to create search engine and make fine tuning on it.
 
 ## Steps:
 
