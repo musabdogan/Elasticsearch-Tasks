@@ -3,11 +3,11 @@
 ## About Task:
 Dealing with growing data is the crucial things for cluster. When data contionusly coming from a source, we need to manage it. **Index lifecycle** should managed efficiently to avoid oversized indices, performance degradation or storage issues.
 
+### Pre-informative Sources
+- [Elastic Rollover Guide](https://www.elastic.co/guide/en/elasticsearch/reference/current/indices-rollover-index.html)  
+- [Elastic Data Streams](https://www.elastic.co/guide/en/elasticsearch/reference/current/data-streams.html)
 
-Pre-informative sources;
-
-https://www.elastic.co/guide/en/elasticsearch/reference/current/indices-rollover-index.html
-https://www.elastic.co/guide/en/elasticsearch/reference/current/data-streams.html
+---
 
 ## Step 1:
 Install Elasticsearch through Docker and ensure the following endpoints are accessible:
