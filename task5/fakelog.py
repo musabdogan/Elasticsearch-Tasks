@@ -3,11 +3,11 @@ import json
 import time
 from datetime import datetime
 
-# Elasticsearch bağlantı bilgileri
+
 ES_HOST = "http://localhost:9200"
 DATA_STREAM = "logs-data"
 
-# Eğer güvenlik açıksa kullanıcı şifre ekle
+
 ES_AUTH = ("elastic", "password")  # Basic Auth
 HEADERS = {"Content-Type": "application/json"}
 
@@ -30,4 +30,4 @@ def send_log():
 if __name__ == "__main__":
     while True:
         send_log()
-        time.sleep(10)  # 1 dakika bekle
+        time.sleep(10)
