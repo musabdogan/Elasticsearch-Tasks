@@ -1,4 +1,4 @@
-# E-commerce search and fine-tuning for Search relevancy
+# E-commerce search
 
 ## About Task
 This project aims to build a lightweight search engine prototype for e-commerce content, using Elasticsearch. The goal is to demonstrate and experiment with **core search engine concepts** such as:
@@ -7,7 +7,7 @@ This project aims to build a lightweight search engine prototype for e-commerce 
 - Filtering and sorting
 - Autocomplete
 - “Did You Mean” suggestions
-- Typo tolerance (phrase + fuzzy fallback)
+- Typo tolerance (phrase + fuzzy ?? fallback)
 - Relevancy tuning
 
 ## Steps:
@@ -44,7 +44,7 @@ You are provided a sample dataset which is created by ChatGPT. You are free abou
 
 ### 4. Data Ingestion
 
-You’ll write a script to load the data into Elasticsearch.
+You’ll write a script to send the data to Elasticsearch.
 
 * Create a simple import script using Python or any other tools.
 * Use the bulk API to insert all items into the `products` index.
@@ -60,7 +60,6 @@ You’ll write a script to load the data into Elasticsearch.
   - Price (ascending / descending)
   - Units sold (ascending / descending)
 - Filter UI with selectable facets (checkboxes or pills).
-- Improve filter usability with larger controls, better spacing, and higher contrast.
 
 ---
 
@@ -75,7 +74,7 @@ Implement the main search logic.
   - search query
   - filters
   - sorting
-  - pagination
+  - pagination ??
 - Build an Elasticsearch query that includes:
   - Full-text search (`match`, `multi_match`)
   - `bool` filters for facets (brand, color, condition, etc.)
@@ -87,9 +86,9 @@ Implement the main search logic.
 
 ### 7. Autocomplete and Suggestions
 
-- Implement autocomplete using:
+- Implement autocomplete feature using:
   - `edge_ngram`, or
-  - pre-combined searchable fields
+  - combined searchable fields
 - Add a **Did You Mean** feature using:
   - `phrase` suggester as the fallback query.
 - Trigger suggester only when the main search returns **zero results**.
@@ -116,13 +115,13 @@ Build a clean and readable search interface.
 
 ### 9. Relevancy Tuning and Testing
 
-Iteratively improve search quality.
+improve search quality day by day.
 
-- Test common and edge-case search queries.
+- Test common search queries.
 - Tune relevance using:
   - field boosting
   - `function_score`
-  - phrase + fuzzy fallback strategy
+  - phrase + fuzzy ?? fallback strategy
 - Observe result ordering, pagination stability, and UX consistency.
 
 
