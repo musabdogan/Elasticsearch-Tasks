@@ -74,7 +74,7 @@ Implement the main search logic.
   - search query
   - filters
   - sorting
-  - pagination ??
+  - pagination
 - Build an Elasticsearch query that includes:
   - Full-text search (`match`, `multi_match`)
   - `bool` filters for facets (brand, color, condition, etc.)
@@ -130,7 +130,7 @@ improve search quality day by day.
 
 ---
 
-This roadmap gives you a clear path to building a production-quality prototype focused on search UX and relevancy. Let me know if you want this converted into a `README.md` or GitHub issue list.
+This roadmap gives you a clear explanation to building a search egine prototype focused on search UX and relevancy. Good Luck :)
 
 
 
